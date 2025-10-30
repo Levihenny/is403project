@@ -1,0 +1,26 @@
+{
+  "name": "403project",
+  "version": "1.0.0",
+  "description": "IS403 Project Full Stack Website",
+  "homepage": "https://github.com/Levihenny/is403project#readme",
+  "bugs": {
+    "url": "https://github.com/Levihenny/is403project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Levihenny/is403project.git"
+  },
+  "license": "ISC",
+  "author": "Levi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "knex": "^3.1.0"
+  },
+  "devDependencies": {}
+}
