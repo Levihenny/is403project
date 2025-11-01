@@ -93,5 +93,5 @@ app.get(/.*/, (req, res) => {  // RegExp form
   });
 
 app.listen(port, () => {
-    console.log("the server listening")
+    console.log(`The server listening on port: ${port}`,`http://localhost:${port}`)
 });
